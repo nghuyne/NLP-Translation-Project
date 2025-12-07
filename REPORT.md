@@ -2,8 +2,8 @@
 ## Đề tài: Dịch máy Anh-Pháp với mô hình Encoder-Decoder LSTM
 
 **Sinh viên thực hiện:**
-- [Tên Sinh Viên 1] - [MSSV]
-- [Tên Sinh Viên 2] - [MSSV]
+- [Trần Ngọc Huy] - [3122411071]
+- [Lý Vĩnh Tài] - [3122411180]
 
 ---
 
