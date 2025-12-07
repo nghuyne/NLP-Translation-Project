@@ -1,0 +1,24 @@
+# Checkpoints and Models
+*.pt
+*.pth
+*.ckpt
+*.bin
+checkpoints/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environments
+myenv/
+venv/
+env/
+.venv/
+
+# Data (Optional - uncomment if you want to exclude data)
+# data/
+
+# IDE settings
+.vscode/
+.idea/
