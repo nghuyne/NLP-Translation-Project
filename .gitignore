@@ -1,0 +1,15 @@
+# Ignore Data
+data/
+
+# Ignore Environment
+nlp1_env/
+__pycache__/
+
+# Ignore Checkpoints
+checkpoints/
+*.pt
+*.pth
+
+# Ignore IDE files
+.vscode/
+.idea/
